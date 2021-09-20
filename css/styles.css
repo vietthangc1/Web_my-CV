@@ -1,0 +1,140 @@
+body{
+  background: lightcyan;
+  margin: auto;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  margin: 50px auto 25px ;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Noto Sans', sans-serif;
+  color: #66BFBF;
+  font-size: 2rem;
+}
+
+h3{
+  font-family: 'Noto Sans', sans-serif;
+  color: #11999E;
+}
+
+.top-container{
+  position: relative;
+  padding: 100px 20px;
+}
+
+.middle-container{
+  padding-bottom: 5px;
+  width: 50%;
+  margin: auto;
+  line-height: 1.5em;
+}
+
+.bottom-container{
+  background-color: rgb(159, 255, 255);
+  padding-top: 5px;
+}
+
+.heading{
+  font-size: 2rem;
+  color: #11999E;
+  font-weight: normal;
+}
+
+span{
+  text-decoration: underline;
+  line-height: 200%;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 30%;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+.profile{
+  margin: auto;
+}
+
+.skills{
+  margin: auto;
+}
+
+.skill-row{
+  margin-bottom: 50px;
+  display: block;
+  text-align: left;
+}
+
+.img-skills{
+  width: 25%;
+  height: 25%;
+  margin: 10px 0 10px;
+}
+
+#img-log{
+  float: left;
+  margin-right: 30px;
+}
+
+#img-da{
+  float: right;
+  margin-left: 30px;
+}
+
+.git-h3{
+  display: inline-block;
+}
+
+a{
+  color: #11999E;
+}
+
+.footer-link{
+  padding: 5px;
+}
+
+.copyright{
+  margin-bottom: 0;
+}
+
+/*Contact me*/
+table{
+  margin: auto;
+  padding: 50px;
+  text-align: left;
+  font-size: 1.3rem;
+}
+
+td{
+  padding-left: 10px;
+}
+
+.form-input{
+  margin-bottom: 20px;
+}
+
+#th_name{
+  margin-top: 10px;
+  width: 30%;
+  height: 25px;
+}
+
+textarea{
+  margin-top: 10px;
+  width: 30%;
+}
+
+#btn-submit{
+  font-size: 1.5rem;
+  padding: 10px 15px;
+  border-radius: 10px;
+}
